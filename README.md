@@ -52,7 +52,8 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+-UML CLASS DIAGRAM
+![UML class diagram](https://github.com/AliyahAira/SolidPrinciple/assets/133284929/442a4b03-7d37-4dfe-aa6e-ccbf34a316a8)
 
 
 
--UML Class Diagram
